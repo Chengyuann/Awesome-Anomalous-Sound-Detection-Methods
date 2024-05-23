@@ -75,6 +75,15 @@ Since the following content is generated based on our database, please provide t
 
     *H. Lan, Q. Zhu, J. Guan, Y. Wei and W. Wang.* ICASSP'24. 🔥
 
+
+1. **[DP-MAE: A Dual-Path Masked Autoencoder Based Self-Supervised Learning Method for Anomalous Sound Detection.](https://ieeexplore.ieee.org/document/10447859)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/ce768e73-eeb3-495c-9993-99735b557023)
+
+
+
+    *Z. -L. Liu, Y. Song, X. -M. Zeng, L. -R. Dai and I. McLoughlin.* ICASSP'24. 🔥
+   
 ## generative Models
 
 1. **[UNSUPERVISED ANOMALY DETECTION AND LOCALIZATION OF MACHINE AUDIO: A GAN-BASED APPROACH.](https://arxiv.org/pdf/2303.17949)**
