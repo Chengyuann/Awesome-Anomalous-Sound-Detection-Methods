@@ -8,3 +8,11 @@
 ## 🔖 News!!!
 
 📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
+
+## 🎁 How to contribute to this repository?
+Since the following content is generated based on our database, please provide the following information in the **issue** to help us fill in the database to add new papers (please do not submit a PR directly).
+```text
+1. Paper title
+2. arXiv ID (if any)
+3. Publication status (if any)
+```
