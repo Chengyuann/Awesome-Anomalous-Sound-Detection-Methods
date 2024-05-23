@@ -61,14 +61,14 @@ Since the following content is generated based on our database, please provide t
 
 
 
-1. **[A DUAL-PATH FRAMEWORK WITH FREQUENCY-AND-TIME EXCITED NETWORK FOR ANOMALOUS SOUND DETECTION.](https://arxiv.org/abs/2302.08453)**
+1. **[A DUAL-PATH FRAMEWORK WITH FREQUENCY-AND-TIME EXCITED NETWORK FOR ANOMALOUS SOUND DETECTION.](https://ieeexplore.ieee.org/document/10448126)**
 
     ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/2c6d35a5-a985-4752-94be-a08c27066db8)
 
 
-    *Yucong Zhang1,2 Juan Liu1† Yao Tian3 Haifeng Liu4 Ming Li1,2†.* ICASSP'24. 🔥
+    *Yucong Zhang, Juan Liu, Yao Tian, Haifeng Liu, Ming Li.* ICASSP'24. 🔥
 
-    <img src="assets/t2i-adapter.png" style="width:100%">
+
 
 
 
