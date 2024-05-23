@@ -43,11 +43,12 @@ Since the following content is generated based on our database, please provide t
 
 
  
-1. **[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation.](https://arxiv.org/abs/2208.12242)**
+1. **[SW-WAVENET: Learning Representation from Spectrogram and Wavegram Using Wavenet for Anomalous Sound Detection.](https://ieeexplore.ieee.org/document/10096742)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/f28cb505-0edb-4525-9fff-dbc68e1f8311)
 
-    *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman.* CVPR'23. 🔥
+
+    *H. Chen, L. Ran, X. Sun and C. Cai.* ICASSP'24. 🔥
   
     <img src="assets/dreambooth.png" style="width:100%">
 
