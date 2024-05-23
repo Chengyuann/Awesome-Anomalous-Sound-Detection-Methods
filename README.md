@@ -39,7 +39,7 @@ Since the following content is generated based on our database, please provide t
 
 
 
-## Diffusion Models
+## Dual Models
 
 
  
