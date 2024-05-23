@@ -57,7 +57,7 @@ Since the following content is generated based on our database, please provide t
     ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/28b5f3af-3a5e-4998-807c-2455818d5b92)
 
 
-    * Soonhyeon Choi, Jung-Woo Choi.* ICASSP'24. 🔥
+   *Soonhyeon Choi, Jung-Woo Choi.* ICASSP'24. 🔥
 
 
 
