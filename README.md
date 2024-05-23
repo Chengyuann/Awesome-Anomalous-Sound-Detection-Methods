@@ -3,5 +3,8 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Survey Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=flat)](https://arxiv.org/abs/2403.04279) 
 
-paper for Anomalous sound detection
+
 ![Anomalous-Sound-Detection](Anomalous-sound-detection.png)
+## 🔖 News!!!
+
+📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
