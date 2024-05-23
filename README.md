@@ -16,3 +16,54 @@ Since the following content is generated based on our database, please provide t
 2. arXiv ID (if any)
 3. Publication status (if any)
 ```
+
+
+<details>
+  <summary>🗂️ Table of Contents</summary>
+  <ol>
+    <li><a href="#papers">📝 Papers</a>
+      <ul>
+        <li><a href="#diffusion-models">Diffusion Models</a></li>
+        <li><a href="#consistency-models">Consistency Models</a></li>
+      </ul>
+    </li>
+    <li><a href="#other-resources">🔗 Other Resources</a></li>
+    <li><a href="#other-awesome-lists">🌟 Other Awesome Lists</a></li>
+    <li><a href="#contributing">✍️ Contributing</a></li>
+  </ol>
+</details>
+
+
+
+ 
+# 📝 Papers
+
+
+
+## Diffusion Models
+
+
+ 
+1. **[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation.](https://arxiv.org/abs/2208.12242)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    *Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, Kfir Aberman.* CVPR'23. 🔥
+  
+    <img src="assets/dreambooth.png" style="width:100%">
+
+1. **[Adding Conditional Control to Text-to-Image Diffusion Models.](https://arxiv.org/abs/2302.05543)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Lvmin Zhang, Anyi Rao, Maneesh Agrawala.* ICCV'23. 🔥
+
+    <img src="assets/controlnet.png" style="width:100%">
+
+1. **[T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models.](https://arxiv.org/abs/2302.08453)**
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+
+    *Chong Mou, Xintao Wang, Liangbin Xie, Yanze Wu, Jian Zhang, Zhongang Qi, Ying Shan, Xiaohu Qie.* Preprint 2023. 🔥
+
+    <img src="assets/t2i-adapter.png" style="width:100%">
