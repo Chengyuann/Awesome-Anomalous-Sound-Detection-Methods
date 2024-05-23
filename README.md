@@ -68,9 +68,15 @@ Since the following content is generated based on our database, please provide t
 
     *Yucong Zhang, Juan Liu, Yao Tian, Haifeng Liu, Ming Li.* ICASSP'24. 🔥
 
+## generative Models
+
+1. **[UNSUPERVISED ANOMALY DETECTION AND LOCALIZATION OF MACHINE AUDIO: A GAN-BASED APPROACH.](https://arxiv.org/pdf/2303.17949)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/ef858605-5df5-426e-9a23-c7c56cbed4c7)
 
 
 
+    *A. Jiang, W. -Q. Zhang, Y. Deng, P. Fan and J. Liu.* ICASSP'23. 🔥
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
