@@ -52,11 +52,12 @@ Since the following content is generated based on our database, please provide t
   
 
 
-1. **[NOISY-ARCMIX: ADDITIVE NOISY ANGULAR MARGIN LOSS COMBINED WITH MIXUP FOR ANOMALOUS SOUND DETECTION.]([https://arxiv.org/abs/2302.05543](https://arxiv.org/pdf/2310.06364))**
+1. **[NOISY-ARCMIX: ADDITIVE NOISY ANGULAR MARGIN LOSS COMBINED WITH MIXUP FOR ANOMALOUS SOUND DETECTION.](https://arxiv.org/pdf/2310.06364)**
 
-    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/28b5f3af-3a5e-4998-807c-2455818d5b92)
 
-    *Lvmin Zhang, Anyi Rao, Maneesh Agrawala.* ICCV'23. 🔥
+
+    * Soonhyeon Choi, Jung-Woo Choi.* ICASSP'24. 🔥
 
 
 
