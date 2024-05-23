@@ -68,6 +68,13 @@ Since the following content is generated based on our database, please provide t
 
     *Yucong Zhang, Juan Liu, Yao Tian, Haifeng Liu, Ming Li.* ICASSP'24. 🔥
 
+1. **[Hierarchical Metadata Information Constrained Self-Supervised Learning for Anomalous Sound Detection under Domain Shift.](https://ieeexplore.ieee.org/document/10446044)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/ca477908-5818-4462-a578-dfb968fb2240)
+
+
+    *H. Lan, Q. Zhu, J. Guan, Y. Wei and W. Wang.* ICASSP'24. 🔥
+
 ## generative Models
 
 1. **[UNSUPERVISED ANOMALY DETECTION AND LOCALIZATION OF MACHINE AUDIO: A GAN-BASED APPROACH.](https://arxiv.org/pdf/2303.17949)**
