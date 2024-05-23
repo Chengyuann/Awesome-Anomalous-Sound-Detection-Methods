@@ -50,15 +50,15 @@ Since the following content is generated based on our database, please provide t
 
     *H. Chen, L. Ran, X. Sun and C. Cai.* ICASSP'24. 🔥
   
-    <img src="assets/dreambooth.png" style="width:100%">
 
-1. **[Adding Conditional Control to Text-to-Image Diffusion Models.](https://arxiv.org/abs/2302.05543)**
+
+1. **[NOISY-ARCMIX: ADDITIVE NOISY ANGULAR MARGIN LOSS COMBINED WITH MIXUP FOR ANOMALOUS SOUND DETECTION.]([https://arxiv.org/abs/2302.05543](https://arxiv.org/pdf/2310.06364))**
 
     ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Layout-a50b5e?style=flat-square)
 
     *Lvmin Zhang, Anyi Rao, Maneesh Agrawala.* ICCV'23. 🔥
 
-    <img src="assets/controlnet.png" style="width:100%">
+
 
 1. **[T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models.](https://arxiv.org/abs/2302.08453)**
 
