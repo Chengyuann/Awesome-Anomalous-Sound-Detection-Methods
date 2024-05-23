@@ -28,7 +28,6 @@ Since the following content is generated based on our database, please provide t
       </ul>
     </li>
     <li><a href="#other-resources">🔗 Other Resources</a></li>
-    <li><a href="#other-awesome-lists">🌟 Other Awesome Lists</a></li>
     <li><a href="#contributing">✍️ Contributing</a></li>
   </ol>
 </details>
