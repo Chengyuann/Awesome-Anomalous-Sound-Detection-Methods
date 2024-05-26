@@ -84,6 +84,16 @@ Since the following content is generated based on our database, please provide t
 
     *Z. -L. Liu, Y. Song, X. -M. Zeng, L. -R. Dai and I. McLoughlin.* ICASSP'24. 🔥
    
+
+   1. **[Anomalous Sound Detection Using Audio Representation with Machine ID Based Contrastive Learning Pretraining.](https://arxiv.org/pdf/2304.03588v1)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/9f92cedf-d330-4898-9b4f-50c8c03030ff)
+
+
+
+
+    *J. Guan, F. Xiao, Y. Liu, Q. Zhu and W. Wang.* ICASSP'23. 🔥
+   
 ## Generative Models
 
 1. **[UNSUPERVISED ANOMALY DETECTION AND LOCALIZATION OF MACHINE AUDIO: A GAN-BASED APPROACH.](https://arxiv.org/pdf/2303.17949)**
