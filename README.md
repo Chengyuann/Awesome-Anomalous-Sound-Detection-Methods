@@ -23,8 +23,8 @@ Since the following content is generated based on our database, please provide t
   <ol>
     <li><a href="#papers">📝 Papers</a>
       <ul>
-        <li><a href="#diffusion-models">Diffusion Models</a></li>
-        <li><a href="#consistency-models">Consistency Models</a></li>
+        <li><a href="#diffusion-models">Dual Models</a></li>
+        <li><a href="#consistency-models">Generative Models</a></li>
       </ul>
     </li>
     <li><a href="#other-resources">🔗 Other Resources</a></li>
@@ -84,7 +84,7 @@ Since the following content is generated based on our database, please provide t
 
     *Z. -L. Liu, Y. Song, X. -M. Zeng, L. -R. Dai and I. McLoughlin.* ICASSP'24. 🔥
    
-## generative Models
+## Generative Models
 
 1. **[UNSUPERVISED ANOMALY DETECTION AND LOCALIZATION OF MACHINE AUDIO: A GAN-BASED APPROACH.](https://arxiv.org/pdf/2303.17949)**
 
