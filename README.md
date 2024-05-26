@@ -118,6 +118,18 @@ Since the following content is generated based on our database, please provide t
     *A. Jiang, W. -Q. Zhang, Y. Deng, P. Fan and J. Liu.* ICASSP'23. 🔥
 
 
+## Other Models
+
+1. **[An Effective Anomalous Sound Detection Method Based on Representation Learning with Simulated Anomalies.](https://ieeexplore.ieee.org/document/10095398)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/a2ef8ad6-bf70-443b-8a15-001601ff7b36)
+
+
+
+
+    *H. Chen et al.* ICASSP'23. 🔥
+
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
