@@ -129,6 +129,18 @@ Since the following content is generated based on our database, please provide t
 
     *H. Chen et al.* ICASSP'23. 🔥
 
+1. **[Self-Supervised Representation Learning for Unsupervised Anomalous Sound Detection Under Domain Shift.](https://ieeexplore.ieee.org/document/9747863)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/c2f87fcc-9582-440b-80d6-91c8b296b2a2)
+
+    
+
+
+    *H. Chen, Y. Song, L. -R. Dai, I. McLoughlin and L. Liu.* ICASSP'23. 🔥
+
+
+
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
