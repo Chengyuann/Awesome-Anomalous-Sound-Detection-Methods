@@ -104,6 +104,20 @@ Since the following content is generated based on our database, please provide t
 
     *A. Jiang, W. -Q. Zhang, Y. Deng, P. Fan and J. Liu.* ICASSP'23. 🔥
 
+
+## GMM Models
+
+
+1. **[Time-Weighted Frequency Domain Audio Representation with GMM Estimator for Anomalous Sound Detection.](https://ieeexplore.ieee.org/document/10096356)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/957fbe31-43f3-4429-b0e9-41af4925c900)
+
+
+
+
+    *A. Jiang, W. -Q. Zhang, Y. Deng, P. Fan and J. Liu.* ICASSP'23. 🔥
+
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
