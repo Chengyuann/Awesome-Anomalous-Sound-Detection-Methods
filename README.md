@@ -93,6 +93,17 @@ Since the following content is generated based on our database, please provide t
 
 
     *J. Guan, F. Xiao, Y. Liu, Q. Zhu and W. Wang.* ICASSP'23. 🔥
+
+
+1. **[Anomalous Sound Detection Using Spectral-Temporal Information Fusion.](https://ieeexplore.ieee.org/document/9747868)**
+
+    ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/18ecfb5e-e7a7-40aa-bc6e-b87aa46817fa)
+
+
+
+
+
+    *Youde Liu; Jian Guan; Qiaoxi Zhu; Wenwu Wang.* ICASSP'22. 🔥
    
 ## Generative Models
 
