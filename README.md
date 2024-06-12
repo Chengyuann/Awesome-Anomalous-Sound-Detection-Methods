@@ -107,7 +107,7 @@ Since the following content is generated based on our database, please provide t
    
 ## Generative Models
 
-1. **[UNSUPERVISED ANOMALY DETECTION AND LOCALIZATION OF MACHINE AUDIO: A GAN-BASED APPROACH.](https://arxiv.org/pdf/2303.17949)**
+1. **[UNSUPERVISED ANOMALY DETECTION AND LOCALIZATION OF MACHINE AUDIO: A GAN-BASED APPROACH.](https://arxiv.org/pdf/2303.17949)**  **[CODE.](https://github.com/jianganbai/AEGAN-AD)**
 
     ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/ef858605-5df5-426e-9a23-c7c56cbed4c7)
 
