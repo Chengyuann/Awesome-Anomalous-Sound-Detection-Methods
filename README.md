@@ -96,6 +96,7 @@ Since the following content is generated based on our database, please provide t
 
 
 1. **[Anomalous Sound Detection Using Spectral-Temporal Information Fusion.](https://ieeexplore.ieee.org/document/9747868)**
+*[code](https://github.com/liuyoude/STgram_MFN)*
 
     ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/18ecfb5e-e7a7-40aa-bc6e-b87aa46817fa)
 
