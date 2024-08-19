@@ -56,7 +56,7 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
   
 
 
-1. **[NOISY-ARCMIX: ADDITIVE NOISY ANGULAR MARGIN LOSS COMBINED WITH MIXUP FOR ANOMALOUS SOUND DETECTION.](https://arxiv.org/pdf/2310.06364)**
+1. **[NOISY-ARCMIX: ADDITIVE NOISY ANGULAR MARGIN LOSS COMBINED WITH MIXUP FOR ANOMALOUS SOUND DETECTION.](https://arxiv.org/pdf/2310.06364)** **[CODE.](https://github.com/soonhyeon/Noisy-ArcMix)**
 
     ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/28b5f3af-3a5e-4998-807c-2455818d5b92)
 
