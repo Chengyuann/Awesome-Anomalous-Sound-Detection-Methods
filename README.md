@@ -26,8 +26,7 @@ Since the following content is generated based on our database, please provide t
 | Applied Acoustics | 2023  | DCASE |        |
 | ArXiv   | ArXiv     | DarkVision: A Benchmark for Low-Light Image/Video Perception | DarkVision |
 | DCASE | 2020-2024 | A comprehensive experiment-based review of low-light image enhancement methods and benchmarking low-light image quality assessment  |            |
-| EUSIPCO| 2018 | Sound Ideas Series 6000 General
- Sound Effects Library |            |
+| EUSIPCO| 2018 | Sound Ideas Series 6000 General Sound Effects Library |            |
 
 
 <details>
