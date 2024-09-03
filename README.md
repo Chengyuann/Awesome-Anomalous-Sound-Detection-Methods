@@ -19,13 +19,13 @@ Since the following content is generated based on our database, please provide t
 
 ## Review and Count
 
-|  Pub | Year      | Paper                                                        | Link                                                         | Note       |
+|  Pub | Year      | Paper                                                        | Note       |
 | :--: | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| ICASSP | IJCV      | Benchmarking Low-Light Image Enhancement and Beyond          | [pdf](https://link.springer.com/article/10.1007%2Fs11263-020-01418-8) |            |
-| TSALP | IEEE PAMI | Low-Light Image and Video Enhancement Using Deep Learning: A Survey | [pdf](https://doi.org/10.1109/TPAMI.2021.3126387)            |            |
-| Applied Acoustics | ArXiv     | Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond | [pdf](http://arxiv.org/abs/2212.10772) [code](https://github.com/shenzheng2000/llie_survey) |            |
-| ArXiv   | ArXiv     | DarkVision: A Benchmark for Low-Light Image/Video Perception | [pdf](https://arxiv.org/abs/2301.06269)                      | DarkVision |
-| DCASE | Signal Process. | A comprehensive experiment-based review of low-light image enhancement methods and benchmarking low-light image quality assessment  | [pdf](https://linkinghub.elsevier.com/retrieve/pii/S0165168422003607) |            |
+| ICASSP | IJCV      | Benchmarking Low-Light Image Enhancement and Beyond          |           |
+| TSALP | IEEE PAMI | Low-Light Image and Video Enhancement Using Deep Learning: A Survey |          |
+| Applied Acoustics | ArXiv     | Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond |        |
+| ArXiv   | ArXiv     | DarkVision: A Benchmark for Low-Light Image/Video Perception | DarkVision |
+| DCASE | Signal Process. | A comprehensive experiment-based review of low-light image enhancement methods and benchmarking low-light image quality assessment  |            |
 
 
 <details>
