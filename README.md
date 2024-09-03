@@ -26,7 +26,7 @@ Since the following content is generated based on our database, please provide t
 | Applied Acoustics | 2023  | DCASE |        |
 | ArXiv   | ArXiv     | DCASE | ...|
 | DCASE | 2020-2024 | DCASE |            |
-| EUSIPCO| 2018、2021 | Sound Ideas Series 6000 General Sound Effects Library |            |
+| EUSIPCO| 2018、2021 | Sound Ideas Series 6000 General Sound Effects Library 、DCASE |            |
 |ICCE| 2020 | MIMII  |            |
 |Digital Signal Processing| 2023 | DCASE |            |
 
