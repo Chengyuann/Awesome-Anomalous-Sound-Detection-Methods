@@ -41,9 +41,9 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
  
 # 📝 Papers
 
+## ICASSP
 
-
-## Dual Models
+### Dual Models
 
 
  
@@ -135,7 +135,7 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
     *A. Jiang, W. -Q. Zhang, Y. Deng, P. Fan and J. Liu.* ICASSP'23. 🔥
 
 
-## Other Models
+### Other Models
 
 1. **[An Effective Anomalous Sound Detection Method Based on Representation Learning with Simulated Anomalies.](https://ieeexplore.ieee.org/document/10095398)**
 
@@ -156,8 +156,30 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
     *H. Chen, Y. Song, L. -R. Dai, I. McLoughlin and L. Liu.* ICASSP'23. 🔥
 
 
+## TASLP
+
+1. **[Why Do Angular Margin Losses Work Well for Semi-Supervised Anomalous Sound Detection?](https://ieeexplore.ieee.org/abstract/document/10329432)**
+
+    ![image](https://github.com/user-attachments/assets/3467a877-8782-4f39-a199-b6ebaf1a043e)
 
 
+
+
+
+    *HK. Wilkinghoff and F. Kurth.* IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023. 🔥
+
+
+1. **[AdaProj: Adaptively Scaled Angular Margin Subspace Projections for Anomalous Sound Detection with Auxiliary Classification Tasks](https://arxiv.org/abs/2403.14179)**
+
+    ![image](https://github.com/user-attachments/assets/5122fb5a-9a12-46d1-9eff-53e572065293)
+
+
+
+
+
+
+    *Kevin Wilkinghoff.* DCASE 2024. 🔥
+   
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
