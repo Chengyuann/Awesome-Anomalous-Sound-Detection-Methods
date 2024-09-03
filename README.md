@@ -21,11 +21,13 @@ Since the following content is generated based on our database, please provide t
 
 |  Pub | Year      |Datasets                                                 | Note       |
 | :--: | --------- | ------------------------------------------------------------ |---------- |
-| ICASSP | IJCV      | DCASE2020 /DCASE2022        |           |
-| TSALP | IEEE PAMI | Low-Light Image and Video Enhancement Using Deep Learning: A Survey |          |
-| Applied Acoustics | ArXiv     | Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond |        |
+| ICASSP | 2020-2024   | DCASE2020 /DCASE2022        |           |
+| TSALP | 2023 |DCSASE |          |
+| Applied Acoustics | 2023  | DCASE |        |
 | ArXiv   | ArXiv     | DarkVision: A Benchmark for Low-Light Image/Video Perception | DarkVision |
-| DCASE | Signal Process. | A comprehensive experiment-based review of low-light image enhancement methods and benchmarking low-light image quality assessment  |            |
+| DCASE | 2020-2024 | A comprehensive experiment-based review of low-light image enhancement methods and benchmarking low-light image quality assessment  |            |
+| EUSIPCO| 2018 | Sound Ideas Series 6000 General
+ Sound Effects Library |            |
 
 
 <details>
