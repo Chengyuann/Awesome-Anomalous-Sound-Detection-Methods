@@ -20,7 +20,7 @@ Since the following content is generated based on our database, please provide t
 ## Review and Count
 
 |  Pub | Year      | Paper                                                        | Note       |
-| :--: | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| :--: | --------- | ------------------------------------------------------------ |---------- |
 | ICASSP | IJCV      | Benchmarking Low-Light Image Enhancement and Beyond          |           |
 | TSALP | IEEE PAMI | Low-Light Image and Video Enhancement Using Deep Learning: A Survey |          |
 | Applied Acoustics | ArXiv     | Low-Light Image and Video Enhancement: A Comprehensive Survey and Beyond |        |
