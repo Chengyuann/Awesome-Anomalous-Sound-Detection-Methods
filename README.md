@@ -192,7 +192,16 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
 
 
     *Kevin Wilkinghoff.* DCASE 2024. 🔥
-   
+
+
+## Applied Acoustics
+ 
+   1. **[Unsupervised anomalous sound detection for industrial monitoring based on ArcFace classifier and gaussian mixture model](https://www.sciencedirect.com/science/article/pii/S0003682X2200562X)**
+
+![image](https://github.com/user-attachments/assets/f02cb36a-67a6-4a46-b654-1d238828109f)
+
+  *Ji Wu ,Fei Yang .* Applied Acoustics Volume 203, 28 February 2023, 109188. 🔥
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
