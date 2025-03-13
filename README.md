@@ -22,7 +22,7 @@ Since the following content is generated based on our database, please provide t
 |  Pub | Year      |Datasets                                                 | Note       |
 | :--: | --------- | ------------------------------------------------------------ |---------- |
 | ICASSP | 2020-2024   | DCASE2020 /DCASE2022        |           |
-| TSALP | 2023 |DCSASE |          |
+| TSALP | 2023、2025 |DCSASE |          |
 | Applied Acoustics | 2023  | DCASE |        |
 | ArXiv   | ArXiv     | DCASE | ...|
 | DCASE | 2020-2024 | DCASE |            |
