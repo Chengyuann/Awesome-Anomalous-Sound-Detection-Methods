@@ -150,6 +150,11 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
 
 ### Other Models
 
+1. **[Improvements of Discriminative Feature Space Training for Anomalous Sound Detection in Unlabeled Conditions.](https://ieeexplore.ieee.org/document/10890020)**
+
+
+    *Takuya Fujimura et al.* ICASSP'25. 🔥
+
 1. **[An Effective Anomalous Sound Detection Method Based on Representation Learning with Simulated Anomalies.](https://ieeexplore.ieee.org/document/10095398)**
 
     ![image](https://github.com/Chengyuann/Awesome-Anomalous-Sound-Detection-Methods/assets/91605267/a2ef8ad6-bf70-443b-8a15-001601ff7b36)
@@ -170,6 +175,16 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
 
 
 ## TASLP
+
+1. **[Why Do Angular Margin Losses Work Well for Semi-Supervised Anomalous Sound Detection?](https://ieeexplore.ieee.org/abstract/document/10329432)**
+
+    ![image](https://github.com/user-attachments/assets/3467a877-8782-4f39-a199-b6ebaf1a043e)
+
+
+
+
+
+    *HK. Wilkinghoff and F. Kurth.* IEEE/ACM Transactions on Audio, Speech, and Language Processing 2023. 🔥
 
 1. **[Why Do Angular Margin Losses Work Well for Semi-Supervised Anomalous Sound Detection?](https://ieeexplore.ieee.org/abstract/document/10329432)**
 
