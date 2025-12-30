@@ -21,7 +21,7 @@ Since the following content is generated based on our database, please provide t
 
 |  Pub | Year      |Datasets                                                 | Note       |
 | :--: | --------- | ------------------------------------------------------------ |---------- |
-| ICASSP | 2020-2024   | DCASE2020 /DCASE2022        |           |
+| ICASSP | 2020-2025   | DCASE2020 /DCASE2022        |           |
 | TSALP | 2023、2025 |DCSASE |          |
 | Applied Acoustics | 2023  | DCASE |        |
 | ArXiv   | ArXiv     | DCASE | ...|
@@ -173,6 +173,16 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
 
     *H. Chen, Y. Song, L. -R. Dai, I. McLoughlin and L. Liu.* ICASSP'23. 🔥
 
+1. **[Noise Supervised Contrastive Learning and Feature-Perturbed for Anomalous Sound Detection.](https://arxiv.org/abs/2509.13853)**
+
+
+
+    <img width="1572" height="348" alt="image" src="https://github.com/user-attachments/assets/fd22716b-f72f-45f9-9a78-2b25295df67f" />
+
+
+
+    *S. Huang, Z. Fang, L. and L. He.* ICASSP'25. 🔥
+   
 
 ## TASLP
 
