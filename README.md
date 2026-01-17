@@ -183,10 +183,17 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
 
     *S. Huang, Z. Fang, L. and L. He.* ICASSP'25. 🔥
    
+## SPL
+
+1. **[ESTM: An Enhanced Dual-Branch Spectral-Temporal Mamba for Anomalous Sound Detection](https://ieeexplore.ieee.org/abstract/document/10329432)**
+
+    <img width="1406" height="518" alt="image" src="https://github.com/user-attachments/assets/3db6e040-f730-41f2-8687-a3687cb8b090" />
+
+*C. Ma, P. Jia  and W. Yang.* SPL'25. 🔥
 
 ## TASLP
 
-1. **[Why Do Angular Margin Losses Work Well for Semi-Supervised Anomalous Sound Detection?](https://ieeexplore.ieee.org/abstract/document/10329432)**
+1. **[Why Do Angular Margin Losses Work Well for Semi-Supervised Anomalous Sound Detection?](https://ieeexplore.ieee.org/document/11152580)**
 
     ![image](https://github.com/user-attachments/assets/3467a877-8782-4f39-a199-b6ebaf1a043e)
 
