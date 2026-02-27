@@ -1,13 +1,31 @@
+<a name="readme-top"></a>
+
+<div align="center">
+  <h1>🌟 Awesome Anomalous Sound Detection (ASD) 🌟</h1>
+  <p><em>A comprehensive and meticulously curated list of resources, datasets, and cutting-edge papers for Anomalous Sound Detection.</em></p>
+</div>
+
+<br>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Survey Paper](https://img.shields.io/badge/Paper-arXiv-blue.svg?style=flat)](https://arxiv.org/abs/2403.04279) 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Chengyuann.Awesome-Anomalous-Sound-Detection-Methods)](https://visitor-badge.laobi.icu/badge?page_id=Chengyuann.Awesome-Anomalous-Sound-Detection-Methods)
 
-![Anomalous-Sound-Detection](Anomalous-sound-detection.png)
+<div align="center">
+  <img src="Anomalous-sound-detection.png" alt="Anomalous-Sound-Detection">
+</div>
+
+---
+
 ## 🔖 News!!!
 
+> **🚀 Stay tuned!** We are continuously updating this repository with the latest breakthroughs in audio anomaly detection.
+
 📌 We are actively tracking the latest research and welcome contributions to our repository and survey paper. If your studies are relevant, please feel free to contact us.
+
+---
 
 ## 🎁 How to contribute to this repository?
 Since the following content is generated based on our database, please provide the following information in the **issue** to help us fill in the database to add new papers (please do not submit a PR directly).
