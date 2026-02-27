@@ -22,6 +22,7 @@ Since the following content is generated based on our database, please provide t
 |  Pub | Year      |Datasets                                                 | Note       |
 | :--: | --------- | ------------------------------------------------------------ |---------- |
 | ICASSP | 2020-2025   | DCASE2020 /DCASE2022        |           |
+| ICANN | 2025   | DCASE2024        |           |
 | TSALP | 2023、2025 |DCSASE |          |
 | SPL | 2025 |DCSASE |          |
 | Applied Acoustics | 2023  | DCASE |        |
@@ -183,6 +184,10 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
 
 
     *S. Huang, Z. Fang, L. and L. He.* ICASSP'25. 🔥
+
+   1. **[An Enhanced Audio Feature Tailored for Anomalous Sound Detection Based on Pre-trained Models.](https://arxiv.org/abs/2508.15334)**
+
+      *Guirui Zhong, Qing Wang. and Xin Fang.* ICASSP'25. 🔥
    
 ## SPL
 
