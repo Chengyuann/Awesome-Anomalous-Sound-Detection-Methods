@@ -185,7 +185,7 @@ Download the dataset from **[Audio dataset.](https://dcase.community/challenge20
 
     *S. Huang, Z. Fang, L. and L. He.* ICASSP'25. 🔥
 
-   1. **[An Enhanced Audio Feature Tailored for Anomalous Sound Detection Based on Pre-trained Models.](https://arxiv.org/abs/2508.15334)**
+1. **[An Enhanced Audio Feature Tailored for Anomalous Sound Detection Based on Pre-trained Models.](https://arxiv.org/abs/2508.15334)**
 
       *Guirui Zhong, Qing Wang. and Xin Fang.* ICASSP'25. 🔥
    
